@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/python">
-    <img src="files/python.png" alt="Python-Logo" width="80" height="80">
+    <img src="files/python.jpg" alt="Python-Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Learning Python (Beginners)</h3>
